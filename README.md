@@ -34,4 +34,4 @@ Admin
 - Báo cáo tổng hợp hoạt động cứu hộ – cứu trợ"
 
 #Java
-#Jira 
+#Jira: https://duypm1750.atlassian.net/?continue=https%3A%2F%2Fduypm1750.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10003&atlOrigin=eyJpIjoiMTY2ODYyYTE2ODIxNGUwNWJkYTczOGM1YmI4OTU2MTciLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
